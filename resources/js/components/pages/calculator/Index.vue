@@ -1,5 +1,5 @@
 <template>
-    <h1>testes</h1>
+    <h1>{{ $t('calculator.title') }}</h1>
     <button
         type="button"
         @click="increment"

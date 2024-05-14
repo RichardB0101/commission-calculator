@@ -4,6 +4,8 @@
 ### Actual time: 6 hours (yet not finished with api)
 ### Powered by: 2 energy drinks and late programming after work
 
+![Screenshot_1](https://github.com/RichardB0101/commission-calculator/assets/86617931/76b23cde-68c5-4418-9113-c613ba7acb83)
+![Screenshot_2](https://github.com/RichardB0101/commission-calculator/assets/86617931/9b793565-d870-49e0-917b-c8e98a1517e3)
 
 -----------------------
 # How to run: 

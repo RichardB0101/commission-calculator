@@ -1,5 +1,8 @@
 <?php
 
 return [
-    'home' => 'Home'
+    'home'      => 'Home',
+    'result'    => 'Result',
+    'submit'    => 'Submit',
+    'made_by'   => 'Made by Ričard Boguševič'
 ];
